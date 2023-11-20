@@ -1,2 +1,2 @@
-# nest_js_essential
+# NestJs Essential Course
 NestJS code
